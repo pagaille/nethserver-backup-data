@@ -10,6 +10,9 @@ media available for backup are: USB disk, Windows share, NFS share
 and WebDAV share. At the end of the backup procedure, an email notification
 will be sent to the administrator or to a custom address.
 
+For a complete reference, please read the online `full documentation 
+<http://docs.nethserver.org/en/latest/backup.html>`_.
+
 General
 ========
 
@@ -81,4 +84,3 @@ Send notification to
    
     * System Administrator: notification of the backup will be sent to the system administrator (admin user)
     * Custom Mail Address: notification of the backup will be sent to the specified email address
-
